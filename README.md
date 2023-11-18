@@ -1,3 +1,5 @@
 # SwiftPMResourceSample
 
-A description of this package.
+SwiftPMでリソースファイルの読み込みを行うためのサンプルコード  
+Zennの記事用に作成
+
